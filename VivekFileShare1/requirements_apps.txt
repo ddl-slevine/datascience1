@@ -1,0 +1,25 @@
+# Some Python examples in this project require additional packages. These
+# packages are being installed via this requirements file as a convenience for
+# environments that don't have them pre-installed.
+#
+# Files named requirements.txt will automatically be installed at the begining
+# of any workspace, job or App. This file is manually loaded in the Flask and
+# Dash Apps in this project as those are the only files requiring these
+# packages.
+#
+# This method of installing Python packages is convenient, but for faster
+# launches, it is recommended to add packages to the Compute Environment
+# instead of using a requirements.txt file.
+#
+# See https://docs.dominodatalab.com/en/latest/reference/environments/Environment_management.html
+# for instructions.
+
+# Requirements for the Python/Flask app publishing example.
+flask~=0.12
+
+# Requirements for the Python/Dash app publishing example.
+dash~=0.21.0
+dash-core-components~=0.21.1
+dash-html-components~=0.9.0
+dash-renderer~=0.12.1
+dash-table-experiments~=0.6.0

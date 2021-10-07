@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="32px" viewBox="0 0 138 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>publish-an-app</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="137" height="32" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-402.000000, -33.000000)">
+            <g id="buttons/secondary/idle-copy" transform="translate(402.500000, 33.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke="#4568F6" x="0.5" y="0.5" width="136" height="31" rx="4"></rect>
+                <text id="Button-Text" mask="url(#mask-2)" font-family="Roboto, Lato, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#4568F6">
+                    <tspan x="21.1201172" y="21">Publish An App</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
